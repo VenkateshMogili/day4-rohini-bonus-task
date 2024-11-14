@@ -1,0 +1,23 @@
+#root {
+  min-width: 1000px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  text-align: start;
+}
+
+.card-container {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+
+.card-item {
+  color: white;
+}
+
+.chart-img {
+  width: 500px;
+  height: 500px;
+  display: float;
+}
